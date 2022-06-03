@@ -28,4 +28,3 @@ A hospital wants to determine whether there is any difference in the average Tur
 ![](image/h0.PNG)
 ![](image/2.PNG)
 
-
