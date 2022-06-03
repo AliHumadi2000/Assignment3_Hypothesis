@@ -15,7 +15,7 @@ Find the var1 and var2 from the sample given
 ### σ2=0.117924
 
 We’ll do calculation using excel and python 
- 
+ 1[](image/excel.png)
 Calculate the critical value from z table ,as a significant level is given
 Population greater than 30 We’ll use z-test for tow tail 
 
