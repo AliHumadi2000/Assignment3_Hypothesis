@@ -44,3 +44,5 @@ TeleCall uses 4 centers around the globe to process customer order forms. They a
 
 ### Ho: Independence of categorical variables (customer order forms defective % does not varies by centre) 
 ### H1: Indence of categorical variables (customer order forms defective % varies by centre)
+
+![](image/44.PNG)
