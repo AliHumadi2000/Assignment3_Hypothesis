@@ -28,3 +28,12 @@ A hospital wants to determine whether there is any difference in the average Tur
 ![](image/h0.PNG)
 ![](image/1.PNG)
 
+
+3)
+Sales of products in four different regions is tabulated for males and females. Find if male-female buyer rations are similar across regions
+### Ho= Proportions of Male and Female are same
+### H1= Proportions of Male and Female are not same
+![](image/3.PNG)
+![](image/3_1.PNG)
+      
+
