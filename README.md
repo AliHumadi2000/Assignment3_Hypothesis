@@ -13,9 +13,11 @@ Setting H0 and H1
 Find the var1 and var2 from the sample given 
 ### σ1=0.083179
 ### σ2=0.117924
+Population greater than 30 We’ll use z-test for tow tail 
 
 We’ll do calculation using excel and python 
- 1[](image/excel.png)
-Calculate the critical value from z table ,as a significant level is given
-Population greater than 30 We’ll use z-test for tow tail 
+
+ ![](image/excel.PNG)
+ 
+
 
