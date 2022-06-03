@@ -30,6 +30,7 @@ A hospital wants to determine whether there is any difference in the average Tur
 
 
 3)
+
 Sales of products in four different regions is tabulated for males and females. Find if male-female buyer rations are similar across regions
 ### Ho= Proportions of Male and Female are same
 ### H1= Proportions of Male and Female are not same
@@ -37,3 +38,9 @@ Sales of products in four different regions is tabulated for males and females. 
 ![](image/3_1.PNG)
       
 
+4)
+TeleCall uses 4 centers around the globe to process customer order forms. They audit a certain %  of the customer order forms. Any error in order form renders it defective and has to be reworked before processing.  The manager wants to check whether the defective %  varies by centre. Please analyze the data at 5% significance level and help the manager draw appropriate inferences
+
+
+### Ho: Independence of categorical variables (customer order forms defective % does not varies by centre) 
+### H1: Indence of categorical variables (customer order forms defective % varies by centre)
